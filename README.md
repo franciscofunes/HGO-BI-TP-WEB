@@ -2,6 +2,8 @@
 
 ## Live demo
 
+[Demo](https://bifreesolutions.web.app/)
+
 ## Usage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
