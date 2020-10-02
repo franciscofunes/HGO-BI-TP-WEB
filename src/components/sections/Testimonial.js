@@ -74,7 +74,7 @@ const Testimonial = ({
 									</p>
 									<br />
 									<a
-										href='https://www.docdroid.net/LCcCHs2/herramientas-bi-opcion-1-pdf'
+										href='https://www.docdroid.net/6zsdf5n/herramientas-bi-opcion-1-pdf'
 										target='_blank'
 									>
 										Leer más...
@@ -108,7 +108,7 @@ const Testimonial = ({
 									</p>
 									<br />
 									<a
-										href='https://www.docdroid.net/YGlprum/herramientas-bi-opcion-2-pdf'
+										href='https://www.docdroid.net/o6flnbK/herramientas-bi-opcion-2-pdf'
 										target='_blank'
 									>
 										Leer más...
@@ -139,10 +139,9 @@ const Testimonial = ({
 										Para AliMun - Alimentos al Mundo S.A. realizamos La
 										siguiente Recomendación
 									</p>
-									<br />
 									<a
 										className='link-testimonial'
-										href='https://www.docdroid.net/YGlprum/herramientas-bi-opcion-2-pdf'
+										href='https://www.docdroid.net/32osCpS/herramientas-bi-recomendacion-de-opcion-alimun-pdf'
 										target='_blank'
 									>
 										Ver Informe
